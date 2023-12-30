@@ -1,3 +1,3 @@
 # CodingNinjasStudio
-<img src="https://media.licdn.com/dms/image/D4D16AQFiGqzm01GZvw/profile-displaybackgroundimage-shrink_200_800/0/1697297509254?e=2147483647&v=beta&t=fXRjc5PHx4gMtFC7isXzmquww-lQkWmSnBXpWUTupHE" alt="Image Alt Text" width="600" height="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp53iVqncc7Rrc2rOT5DizSlzjy_lNS5TRsq9naG6Vnv-i1B78XG0iok0bjXCtOHWyYI0&usqp=CAU" alt="Image Alt Text" width="600" height="300">
 
