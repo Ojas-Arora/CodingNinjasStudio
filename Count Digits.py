@@ -1,4 +1,4 @@
-#Count digits
+#Count digits in a number that divide the number
 def countDigits(n: int) -> int:
     # Initializing 'cur' and 'ans'.
     cur = n
