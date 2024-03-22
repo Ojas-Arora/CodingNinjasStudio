@@ -1,3 +1,4 @@
+//Data type
 int dataTypes(string type) {
 	  if(type=="Integer" or type=="Float")
     return 4;
